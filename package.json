@@ -1,0 +1,11 @@
+{
+  "name": "npmtest",
+  "version": "0.0.0",
+  "description": "npmtest",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-abc/npmtest.git"
+  },
+  "author": "Tom-abc <wwlhsszq@gmail.com>",
+  "license": "GPL-3.0-or-later"
+}
