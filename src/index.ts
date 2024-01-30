@@ -1,1 +1,1 @@
-export { isPrime } from "./bar";
+export const a = 1;
