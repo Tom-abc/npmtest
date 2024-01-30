@@ -9,4 +9,4 @@ export default defineConfig({
     target: "es5",
     shims: true,
     legacyOutput: true,
-})
+});
