@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/Tom-abc/npmtest.git"
   },
-  "author": "Tom-abc <wwlhsszq@gmail.com>",
+  "files": [
+    "dist"
+  ],
+  "author": "Tom-abc",
   "license": "GPL-3.0-or-later"
 }
