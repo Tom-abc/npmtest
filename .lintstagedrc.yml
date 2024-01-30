@@ -1,1 +1,1 @@
-"src/**/*.ts": npx prettier --write
+"*.{ts,json}": npx prettier --write

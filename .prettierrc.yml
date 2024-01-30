@@ -1,0 +1,5 @@
+semi: false
+overrides:
+  - files: "*.ts"
+    options:
+      tabWidth: 4
