@@ -23,6 +23,7 @@ jobs:
       - name: Release
         run: |
           npm i -D semantic-release @semantic-release/git @semantic-release/changelog conventional-changelog-conventionalcommits
+          npm run build
           npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
