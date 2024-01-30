@@ -1,4 +1,7 @@
 export function isPrime(n: number): boolean {
+	if (Math.floor(n) !== n) {
+		return false;
+	}
 	if (n < 2) {
 		return false;
 	}
