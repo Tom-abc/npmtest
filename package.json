@@ -9,9 +9,13 @@
   "files": [
     "dist"
   ],
+  "scripts": {
+    "build": "tsup"
+  },
   "author": "Tom-abc",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
+    "@swc/core": "^1.3.107",
     "tsup": "^8.0.1"
   }
 }
