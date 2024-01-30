@@ -1,3 +1,1 @@
-"*.ts":
-  - prettier --write
-  - git add
+"*.ts": prettier --write src/
