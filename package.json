@@ -10,5 +10,8 @@
     "dist"
   ],
   "author": "Tom-abc",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "tsup": "^8.0.1"
+  }
 }
