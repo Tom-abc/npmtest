@@ -1,1 +1,1 @@
-"*.ts": prettier --write src/
+"src/**/*.ts": prettier --write
