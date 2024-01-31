@@ -8,5 +8,7 @@ export default defineConfig({
 	minify: true,
 	target: "es5",
 	shims: true,
-	legacyOutput: true,
+	outExtension({ format }) {
+		return { js: `.${format === "cjs" ? "cjs" : "mjs"}` };
+	},
 });
