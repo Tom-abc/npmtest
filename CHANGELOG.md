@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/Tom-abc/npmtest/compare/v0.1.1...v0.1.2) (2024-02-01)
+
+
+### Bug Fixes
+
+* pkg ([#17](https://github.com/Tom-abc/npmtest/issues/17)) ([5f647ac](https://github.com/Tom-abc/npmtest/commit/5f647ac015cd9f6e1a535024733b13cf792626e5))
+
 ## [0.1.1](https://github.com/Tom-abc/npmtest/compare/v0.1.0...v0.1.1) (2024-01-31)
 
 
