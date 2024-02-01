@@ -1,5 +1,5 @@
 {
-  "name": "npmtest",
+  "name": "@tom-abc/npmtest",
   "version": "0.0.0",
   "description": "npmtest",
   "repository": {
@@ -23,6 +23,10 @@
         "default": "./dist/index.cjs"
       }
     }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "build": "tsup",
